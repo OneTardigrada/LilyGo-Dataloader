@@ -34,8 +34,7 @@ Browser-based configuration and data export tool for the ESM smartwatch setup (L
 
 | File | Purpose |
 |------|---------|
-| `data_loader.html` | Main application (single self-contained HTML/CSS/JS file). |
-| `index.html` | Landing page (redirects to the Data Loader). |
+| `index.html` | Landing page (redirects to the Data Loader) and main application (single self-contained HTML/CSS/JS file). |
 | `sample_config.json` | Example configuration to use as a template. |
 
 ## Notes
