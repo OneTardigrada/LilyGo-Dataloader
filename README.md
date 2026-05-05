@@ -6,9 +6,9 @@
 ![Hardware](https://img.shields.io/badge/hardware-LilyGo%20T--Watch%20S3-1565C0?style=flat-square)
 ![No Install](https://img.shields.io/badge/install-none-success?style=flat-square)
 ![Offline](https://img.shields.io/badge/offline-100%25-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-Browser-based configuration and data export tool for the ESM smartwatch setup (LilyGo T-Watch S3). Runs fully locally in the browser, no installation required.
+
+Browser-based configuration and data export tool for the ESM smartwatch setup (LilyGo T-Watch S3 Ultra). Runs fully locally in the browser, no installation required.
 
 ## Features
 
