@@ -42,4 +42,4 @@ Browser-based configuration and data export tool for the ESM smartwatch setup (L
 
 - No data is ever sent to a server. Everything runs in the browser.
 - If the connection drops, briefly unplug and reconnect the watch, then connect again.
-- The configuration format is documented in `docs/SPECIFICATION.md`.
+
